@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\bin\Debug\net6.0\dop2.exe
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\bin\Debug\net6.0\dop2.deps.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\bin\Debug\net6.0\dop2.runtimeconfig.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\bin\Debug\net6.0\dop2.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\bin\Debug\net6.0\dop2.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\refint\dop2.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\dop2.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Семинар 3\DZ_Semiar3_C\dop2\obj\Debug\net6.0\ref\dop2.dll
